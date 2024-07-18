@@ -2,7 +2,7 @@
 
 Using machine learning to tell apart different pc parts
 
-![add image descrition here](direct image link here)
+https://github.com/user-attachments/assets/87086d4b-0828-4869-9ce5-47f1dc401463
 
 ## The Algorithm
 
@@ -14,4 +14,4 @@ By using ImageNet and using my own classifications labels and dataset, it is abl
 2. then download a test image and type (python3 project.py test.jpg)
 3. it should run and return the classification and percentage of confidence
 
-[View a video explanation here](video link)
+https://youtu.be/D4k7u-M1DUw
